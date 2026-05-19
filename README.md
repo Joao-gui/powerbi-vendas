@@ -18,7 +18,8 @@ Projeto desenvolvido para análise de vendas utilizando Power BI.
 - Quantidade vendida
 
 ## Dashboard
-
+![Gif](imagens/preview.gif)
+---
 ![Dashboard](imagens/imagem01.jpg)
 ---
 ![Filtro](imagens/imagem02.jpg)
